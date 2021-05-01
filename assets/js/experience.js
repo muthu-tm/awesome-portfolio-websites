@@ -4,25 +4,25 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Member Technical Staff",
+    cardImage: "assets/images/experience-page/imstrong.jpeg",
+    place: "Imstrong",
+    time: "(Jan, 2020 - Present)",
+    desp: "<li>Joined as a Backend Developer (GoLang & NodeJS) in the small product team.</li> <li>Promoted to handle the whole cloud infrastructure that spanned over AWS & GCP.</li> <li>Did AI/ML Research & Development to enhance our product’s user experience.</li> <li>Integrated many third-party services, like MUX, AWS VOD solution, Razorpay & Stripe payment gateways.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Senior Software Engineer",
+    cardImage: "assets/images/experience-page/sysvine.png",
+    place: "Sysvine Technologies",
+    time: "(Apr, 2018 - Dec 2019)",
+    desp: "<li>Elsevier - GeoFacets (BHP)</li> <li>Digitizes customers raw data, extracts the Metadate & Content, including geotagging for map-based discovery, and indexes the data</li> <li>PelotonBlockchain</li> <li>Peloton Blockchain provides solutions for issuance and trading of securities. Offers Peloton Exchange that enables the securitized products to be traded with other products or currencies (either fiat or cryptocurrency).</li> <li>TurboPro</li> <li>A cloud-based custom ERP product that is for Erection companies to manage their supply chain, finance, orders and inventory.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/sysvine.png",
+    place: "Sysvine Technologies",
+    time: "(Dec, 2015 - Mar 2018)",
+    desp:"<li>Started my career as a Java developer and worked on many client projects. Learnt and worked in many programming languages with various level of team.</li> <li>Broadridge - Dojima Trade & Clear</li> <li>Dojima Clear is a platform for clearing the traded derivative instruments</li> <li>Order and Market data management service using Fix protocol. Integrated many clearing services using FIX, FIXML, NASDAQ Genium API</li> <li>HealthPractice</li> <li>Hospital Information Management Solution for Indian Healthcare Market.  HealthPractice is a desktop app for the Hospital Information Management.</li>",
   },
 ];
 
